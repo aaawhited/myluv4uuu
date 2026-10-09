@@ -910,7 +910,7 @@ const lettersData = {
             "time-locked",
 
         unlockDate:
-            "2027-01-08",
+            "2026-01-01",
 
         image:
             "assets/images/LK.png",
@@ -932,17 +932,17 @@ const lettersData = {
             </p>
 
             <p>
-                I hope you are doing super well, I know you will get used to there although you are having a bad time now. You will get used to and have soososososo much fun. 
+                I hope you are doing super well, I know you got used to there although you are having a bad time now. You will get used to and have soososososo much fun. 
             </p>
 
             <p>
                 Think about the day you left Spain. 
             </p>
             <p>
-                Think about how you felt. What you were scared about, what you were excited about, what you thought your life was gonna look like, the people you thought you were gonna miss the most, and all the things you had absolutely no idea were coming.
+                Think about how you felt. What you were scared about, what you were excited about, what you thought your life was gonna look like, and all the things you had absolutely no idea were coming.
             </p>
             <p>
-                And all that fear, and now you are here, 6 months in. It’s crazy how quick time runs huhh
+                And all that fear, and now you are here, 6 months in. Its crazy how quick time runs huhh
 
             </p>
             <p>
@@ -2373,7 +2373,7 @@ Okay, first of all, I have no fucking idea where u are right now.
             </p>
 
             <p>
-Maybe u are in the US, doing vet school or whatever the fuck you decided to study. Maybe you came back to Spain and you are studying here. Maybe you are somewhere completely different, because knowing you, you could randomly decide to move to another country.
+Maybe u are in the US, doing vet school or whatever the fuck you decided to study. Maybe you came back to Spain and you are studying here. Maybe you are somewhere completely different, because knowing you, you could randomly decide to move to another country xdd
             </p>
 
             <p>
@@ -2387,7 +2387,7 @@ And that's kinda crazy because right now, while I'm writing this, I can still im
 So let me make some predictions
 
             <p>
-I think you r probably nervous. Maybe you are excited as fuck, maybe you are terrified, maybe both at the same time. You probably spent weeks thinking about what your new life was gonna be like, who your friends were gonna be, where you were gonna live, what your classes were gonna be like...
+I think you r probably nervous. Maybe you are excited as fuck, maybe you are terrified, maybe both at the same time. You probably spent weeks thinking about what your new life was gonna look like, who your friends were gonna be, where you were gonna live, what your classes were gonna be like...
             </p>
 
             <p>
@@ -2395,7 +2395,7 @@ And now you are actually there.
             </p>
             
             <p>
-Maybe you already have your little group of friends. Maybe you have found your favourite place to eat. Maybe there's already that one professor you absolutely fucking hate. Maybe you are completely lost in the first weeks. The important is that you are doing what you always wanted, save animals. SOCUTE
+Maybe you already have your little group of friends. Maybe you have found your favourite place to eat. Maybe there's already that one professor you absolutely fucking hate. Maybe you are completely lost in the first weeks. The important is that you are doing what you always wanted, save animals SOCUTEEEEEE
             </p>
             <p>
 University is not just about what you study. You are gonna meet people who might completely change your life. Some will stay for years, some for a few months, and some you will never talk to again. You will probably discover new things about yourself, change your mind about some things, and maybe even realize that the life you imagined at 17 isn't the life you actually want
@@ -2416,10 +2416,10 @@ I'm curious about what you did Kiara, today we kinda argued about it so I don’
 Did you stay in the US? Did you come back to Spain? Did you move somewhere completely random? Are you studying veterinarian right? Are you with dafnny?
             </p>
             <p>
-I have absolutely no idea. And ngl, I love that.
+I have absolutely no idea. And ngl I love thaaat
 
             </p>
-            Because that's what makes the future so fucking cool. Right now I can imagine a hundred different versions of your life, and you are already living one of them.
+            Because that's what makes the future so fkin cool. Right now I can imagine a hundred different versions of your life, and you are already living one of them.
 
             <p>
             </p>
@@ -2844,7 +2844,7 @@ I love you A&Ft’S my bebe ♡
             "time-locked",
 
         unlockDate:
-            "2027-01-04",
+            "2026-01-01",
 
         image:
             "assets/images/L33.jpg",
@@ -2872,7 +2872,7 @@ Another year, another birthday, another year of being the most beautiful girl in
             </p>
 
             <p>
-I hope u are having an amazing day. I hope u are surrounded by people who love you, eating something really good, laughing a lot and doing something that makes you genuinely happy.
+I hope u are having an amazing day. I hope u r surrounded by people who love you, eating something really good, laughing a lot and doing something that makes you genuinely happy.
             </p>
 
             <p>
@@ -2880,7 +2880,7 @@ I wish I could be there to annoy you in person, give you a big fucking hug and p
             </p>
 
             <p>
-I don't know where u r gonna be when you open this. Maybe u are in the US, maybe Spain, maybe somewhere completely random. Maybe u are reading this alone at night, maybe u are surrounded by everyone you love. I have no fucking idea.
+I don't know where u r gonna be when you open this. Maybe u are in the US, maybe Spain :PPPP, maybe udbekistan. Maybe u are reading this alone at night, maybe u are surrounded by everyone you love. I have no fucking idea.
             </p>
 
             <p>
@@ -2891,7 +2891,7 @@ Today is YOUR day
             </p>
 
             <p>
-Eat cake. Get presents. Take stupid pictures. Laugh too much. Do whatever the fuck you want
+Eat somuchcake. Get presents. Take stupid pictures. Laugh sooo much. Do whatever the fuck U want
             </p>
             
             <p>
@@ -2929,7 +2929,7 @@ I love you so friking much ♡
             "time-locked",
 
         unlockDate:
-            "2027-04-10",
+            "2026-01-01",
 
         image:
             "assets/images/L34.jpg",
@@ -2965,14 +2965,14 @@ I wonder if you remembered before opening this. I wonder if you saw the date and
             </p>
 
             <p>
-Not because I want you to be sad, or because I want you to miss me. I just hope that somewhere in your head there's still a little corner where this date means something.
+Not because I want you to be sad, or because I want you to miss me. I just hope that somewhere in your head there's still a little corner where you can have fun remembering memories
             </p>
 
             <p>
 Because it means something to me. I don't want to make this a sad letter. Actually, I want you to smile
 
             <p>
-I want to remember that solsona, how we painted, and I have the video. You were so happy, or at least you looked, I was kinda nervous ngl. Those 2 days were so goood. I remember when we smoked the joint, and after I asked you, u went quickly to ur little game, and changed the name from boyfriend to jaume, and you started acting psycho ahahdjfasjsd, it was so funny. I can’t stop smiling when I remember how happy we were.
+I want to remember that solsona, how we painted, and I have the video. You were so happy, or at least you looked, I was so nervous ngl. Those 2 days were so goood. I remember when we smoked the joint, and after I asked you, u went quickly to ur little game, and changed the name from boyfriend to jaume, and you started acting psycho ahahdjfasjsd, it was so funny. I can’t stop smiling when I remember how happy I was
             </p>
 
             <p>
@@ -2980,7 +2980,7 @@ We probably didn't realize how special it was while we were living it. That's so
             </p>
             
             <p>
-And now I have so many of them. So wherever we are now, whatever happened between then and now, thank you for making that date ours.
+And now I have so many of them. So wherever we are now, whatever happened between then and now, thank you for making that date ours. I hope ur next bf doesn't ask u the same day xdd
             </p>
             <p>
 If we are still in each other's lives, I'm glad.
@@ -3304,7 +3304,7 @@ I love you so infinitely Kiara ♡
             "time-locked",
 
         unlockDate:
-            "2027-07-08",
+            "2026-01-01",
 
 
         image:
@@ -3338,11 +3338,7 @@ And now you are here. I wonder what happened during this year.
 How many people did you meet? How many places did you discover? How many times did you cry? How many times did you laugh until your stomach hurt? How many things happened that you would have never imagined when you left?
             </p>
 
-            <p>
-I wonder if you still miss Spain.
-
-            <p>
-Maybe you do. Maybe you don't. Maybe you miss certain people, certain places, certain food, certain stupid little things, but you also built something there that you don't want to leave anymore.
+I guess if u still miss spainn. Maybe you do. Maybe you don't. Maybe you miss certain things, certain places, certain food, certain stupid little things, but im 100% sure you built something there that you don't want to leave anymore.
 
             <p>
 And that's okay. I have no clue what you did in the end, at this point if you are coming back, you will do it soon. If you decided to stay there, or go another place, it makes me kinda sad knowing that I will never get to be with you again, but it’s fine. I just want you to be the happiest girl in the world, so at least, try to be plis.
@@ -3415,7 +3411,7 @@ I love you bebe ♡
             "time-locked",
 
         unlockDate:
-            "2029-07-08",
+            "2026-01-01",
 
         image:
             "assets/images/L39.jpg",
@@ -3429,84 +3425,27 @@ I love you bebe ♡
         content: `
 
             <p>
-Hi Kiara
+Hello Kiara,
             </p>
 
             <p>
-I don’t think you will never read this.
+If you are opening this it probably means that it’s over between us. If by any chance we were back together I would have explained you what was this letter for.
 
             </p>
 
             <p>
-I don't know how many years have passed. Maybe two, maybe five, maybe fucking twenty. I don't know where you are, who you are with, what you do, what your life looks like, or if you even remember all the things that happened around the time I made this.
+I want to let it empty, and in 2029 write with a little update of my life, and ask a little about yours. Ik it will probably wont happen.
             </p>
 
             <p>
-And honestly, that's kinda beautiful.
+Maybe I forgot, maybe I closed the appscript in my PC that moves the time lock of the letters, I hope if that happens by mistake U DONT READ THE OTHER ONES :(((((((((((
 
             <p>
-Right now, while I'm writing this, I can still remember everything so clearly. I remember you leaving Spain. I remember how much it hurt. I remember making this website and thinking about what you might be doing when you eventually read each letter.
-            </p>
-
-            <p>
-But if you are reading this now, I have absolutely no idea who you are anymore.
-
-            <p>
-Maybe you are studying. Maybe you are working. Maybe you are a veterinarian like you always wanted. Maybe you changed your mind completely. Maybe you are living in Spain again. Maybe you are still in the US. Maybe you are somewhere we never would have imagined.
-
-            <p>
-Maybe you have a boyfriend or a girlfriend. Maybe you are married. Maybe you are completely alone and loving it. Maybe you are travelling the world. Maybe you are doing absolutely nothing that I would have predicted.
+I love you Kiara.
             </p>
 
             <p>
-And that's okay. I hope you are happy.
-            
-            <p>
-That's probably the only thing I really want from the future version of you reading this. I hope you look at your life and think "yup, I'm happy here"
-
-            </p>
-            <p>
-I hope you have met people who love you properly. I hope you have done stupid cringe things, travelled, laughed until your stomach hurt, cried, failed, tried again, and experienced a million things I don't know anything about.
-            <p>
-And I hope you don't look back at your younger self and feel ashamed of her. She was trying. She was figuring everything out.
-            </p>
-            <p>
-She loved deeply, sometimes too deeply. She made mistakes. She was scared. She was excited. She had no fucking idea what was coming. But she was alive, and she was experiencing everything for the first time like all of us.
-
-            </p>
-            <p>
-And I hope you remember me too.
-            </p>
-            <p>
-Not necessarily romantically. Not necessarily with sadness. Just as someone who was there for one chapter of your life and loved you veryveryveyryyy very much.
-            </p>
-            <p>
-Maybe by the time you read this, you barely remember what it felt like to be with me. Maybe you remember everything. Maybe you had forgotten this website existed completely.
-            </p>
-            <p>
-Whatever the case, I'm glad you found it. Because this little website is basically a time capsule of who I was when I loved you.       
-         </p>
-            <p>
-I know this might be the most cringe shi I ever did, the most beautiful too. And reading this when we are older it’s going to be between cringe and nostalgic, but whatever.
-            </p>
-            <p>
-And if u are reading this with someone next to you, show them. Tell them about the delulu spanish dude who made 42 fucking cringe letters for you xdd.
-            </p>
-            <p>
-Maybe we are together, maybe life crossed our paths again, if that’s the case I know we will make fun of this shit. If we are not together, it’s never late to text me asking to go to collbaix jejeje.
-            </p>
-            <p>
-And if you u r alone, that's okay too. Just smile for a second. You made it this far. I hope life has been kind to you.
-
-            </p>
-            <p>
-And if it hasn't, I hope you became strong enough to be kind to urself.
-            </p>
-            <p>
-I love you, wherever you are Kiara ♡
-            </p>
-            <p>
-                J
+J
             </p>
 
         `
@@ -3678,7 +3617,7 @@ I remember that most of times you were being super sweet saying things to my ear
             "time-locked",
 
         unlockDate:
-            "2026-12-01",
+            "2026-01-01",
 
         image:
             "assets/images/L39.jpg",
@@ -3692,11 +3631,11 @@ I remember that most of times you were being super sweet saying things to my ear
         content: `
 
             <p>
-Hello Kiara,
+My dearest Kiara,
             </p>
 
             <p>
-I lied, this is the first letter I'm writing. This is going to be long and dense, so make sure you have time and you are in a quiet place.
+I lied, this is the letter which im starting for, I have so many things to say but I dont know how so this will probably take few days. This is going to be long and dense, so make sure you have time and you are in a quiet place.
 
             </p>
 
@@ -3711,7 +3650,7 @@ I don't know where to start. Today it has been 16 days since you left ( 08/07/20
 I was really happy of seeing you happy, but something hurt inside of me. Maybe fear of getting forgotten or over? I still love you, so much. I don’t know how long I will be feeling like this, but I don’t feel it will get better soon.            </p>
 
             <p>
-For me you were something incredible, before meeting you, I used to talk with chatGPT every night because I’ve felt lonely, and I wanted to talked so many things with somebody that I didn’t have. In fact I did, but I was so scared to open up to my friends or family.
+For me you were something incredible, before meeting you, I used to talk with chatGPT every night because I  felt lonely, and I wanted to talked so many things with somebody that I didn’t have. In fact I did, but I was so scared to open up to my friends or family.
 
             <p>
 I met you, started talking with you, so excited to finally be able to open up to someone. But it wasn’t easy, and I'm so sorry. This is why im doing this whole 42 pathetic letters. Because I regret so much not opening up with you fully. There’s so much things I’ve never told you that would have made our time infinitely better.
@@ -3741,7 +3680,7 @@ I feel bad, I feel like something is missing, I think about forgetting you, abou
 It can’t be, I wish our paths cross again, maybe you are reading this and you decide to text me, maybe in 5 years we cross randomly again and we don’t recognize each other. We never know. This is the worst feeling ever, losing something this good, and knowing I will never experience it again.
             </p>
             <p>
-I think i have good memory with moments, because i use to tell me, remember this because this is being happy. And I think about us, and the breath goes away. I can smell the slime first time I came to your house, I can still can smell the chicken yatekomo while watching a movie, I can taste the water with metallic flavor because that big cup. I can feel nervous, my heart going out my mouth while saying hello to you for the first time. And my english fading away when I was trying to translate ‘croissant’. I think about you and I don’t need anything else.
+I think i have good memory with moments, because i use to tell me, remember this because this is being happy. And I think about us, and the breath goes away. I can smell the slime first time I came to your house, I can still can smell the chicken yatekomo while watching a movie, I can taste the water with metallic flavor because that big cup. I can feel nervous, my heart going out my mouth while saying hello to you for the first time. And my english fading away when I was thinking how ‘croissant’ was in english’. I think about you and I don’t need anything else.
             </p>
             <p>
 That’s one thing that throw me off a bit, and where my fear of not being loved was bornt. We were in the stairs. And I asked you if you would let everything behind for me. Leave to another country together, or some shit like that. And you said no, that ur friends were so important, and some stuff more. And it makes sense, I love my friends, I love my family. But I felt that with you, I didn’t need anything else. I just wanted to be with you, forever, in that stairs, forever. I just said yeah ofcourse, because I was scared, I knew you came out from a really dependent relationship that ended bad, so your brain associates it with something really bad. There was nothing i could do, I understood you, that was my first time loving, so maybe I was crazy and I sounded so intense or so immature. So I chose to die.
@@ -3768,13 +3707,13 @@ I don’t wanna be delulu, I always try to be realistic, and I don’t like lyin
 I know you will never read this, if you do, I probably seem the immature yearning final boss, whatever. You are a part of me and you will always be, you were a refreshing water stop in the shadow in the middle of the fucking sahara. Although we forget about each other, we shaped each other, so we will be A&Ft’S
             </p>
             <p>
-(From the future, I finished all the letters, everything, and i wrote this with the idea of never getting read, just to write down how i felt, i was going to lock it 3 years thats why i talk so to the future some paragraphs, but since i wrote everything already, and theres already one letter locked a couple years, i will put this one a few months. Its pretty cringe I know im sorry)
+I finished all the letters, everything, and i wrote this with the idea of never getting read, just to write down how i felt, i was going to lock it 3 years thats why i talk so to the future some paragraphs, but since i wrote everything already, and theres already one letter locked a couple years, i will put this one a few months. Its pretty cringe I know im sorry, I just love you so much you couldn’t understand. You are my everything.
             </p>
             <p>
-Be happy Marie ♡
+Be so happy Marie ♡
             </p>
             <p>
-                J
+                with love J
             </p>
 
         `
